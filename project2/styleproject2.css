@@ -1,0 +1,184 @@
+h1{
+	color:	rgb(211,154,121);
+	background-color: #fff;
+	padding:25px;
+	display: block;
+	margin: auto;
+	width: 37.5%;
+	font-size: 42px
+}
+h2{
+	color:	rgb(211,154,121);
+	background-color: #fff;
+	padding:25px;
+	display: block;
+	margin: auto;
+	width: 50%;
+	font-size: 42px
+}
+body{
+	background-color: rgb(211,154,121);
+
+}
+#link{
+	color:#fff;
+	position: relative;
+	left:1620px;
+	top:10px;
+	width: 130px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 40px
+}
+#image{
+	display: block;
+	margin: auto;
+	width: 40%;
+	padding: 30px
+}
+#image2{
+	padding: 50px;
+	position: absolute;
+	left: 410px;
+	width: 25%
+}
+#image3{
+	padding: 50px;
+	position: absolute;
+	left: 930px;
+	width: 25%
+}
+#backlink{
+	color:#fff;
+	position: absolute;
+	left: 350px;
+	width: 45px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 20px
+}
+#textpage2{
+	color:#fff;
+	position: absolute;
+	left: 970px;
+	top: 360px;
+	width: 130px;
+	padding: 10px;
+	font-size:78px;
+	text-decoration: underline;
+}
+#nextlink{
+	color:#fff;
+	position: relative;
+	left:1350px;
+	top: 500px;
+	width: 130px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+#door1{
+	padding: 50px;
+	position: absolute;
+	left: 400px;
+	width: 10%
+}
+#door2{
+	padding: 50px;
+	position: absolute;
+	left: 800px;
+	width: 10%
+}
+#door3{
+	padding: 50px;
+	position: absolute;
+	left: 1200px;
+	width: 10%
+}
+#Bathroom{
+	color:#fff;
+	position: relative;
+	left:440px;
+	top: 510px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+#Bedroom{
+	color:#fff;
+	position: relative;
+	left:850px;
+	top: 425px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+#Livingroom{
+	color:#fff;
+	position: relative;
+	left:1235px;
+	top: 340px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+#baileytext{
+	color:#fff;
+	position: absolute;
+	left:570px;
+	top: 590px;
+	padding: 10px;
+	font-size: 50px;
+}
+#baileylink{
+	color:#fff;
+	position: relative;
+	left:1190px;
+	top:10px;
+	width: 120px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+#Cocotext{
+	color:#fff;
+	position: absolute;
+	left:570px;
+	top: 500px;
+	padding: 10px;
+	font-size: 50px;
+}
+#denvertext{
+	color:#fff;
+	position: absolute;
+	left:570px;
+	top: 590px;
+	padding: 10px;
+	font-size: 50px;
+}
+#baileytext2{
+	color:#fff;
+	position: absolute;
+	left:570px;
+	top: 530px;
+	padding: 10px;
+	font-size: 40px;
+}
+#backtohome{
+	color:#fff;
+	position: relative;
+	left:1150px;
+	top:80px;
+	width: 120px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+#cocotext{
+	color:#fff;
+	position: absolute;
+	left:570px;
+	top: 600px;
+	padding: 10px;
+	font-size: 40px;
+}
