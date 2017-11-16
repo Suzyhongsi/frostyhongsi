@@ -19,11 +19,11 @@
 <div id="channel"></div>
 <script>
 
-	var container = document.getElementById("channel"), 
+	var channel = document.getElementById("channel"), 
 		images = ["1.gif","2.gif","3.gif","4.gif","5.gif"], 
 		number = 1;
 
-	container.innerHTML = '<img src="'+number+'.gif">'
+	channel.innerHTML = '<img src="'+number+'.gif">'
 	document.onkeydown = arrowKeys; 
 	function arrowKeys (event){
 	if(event.keyCode == '38'){
@@ -38,7 +38,7 @@
 	if(number == 0){
 			number = 5;
 	}
-	container.innerHTML = '<img src="'+number+'.gif">'
+	channel.innerHTML = '<img src="'+number+'.gif">'
 	}
 </script>
 </body>
