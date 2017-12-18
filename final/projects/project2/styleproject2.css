@@ -1,0 +1,280 @@
+h1{
+	color:	rgb(211,154,121);
+	background-color: #fff;
+	padding:25px;
+	display: block;
+	margin: auto;
+	width: 37.5%;
+	font-size: 42px
+}
+h2{
+	color:	rgb(211,154,121);
+	background-color: #fff;
+	padding:25px;
+	display: block;
+	margin: auto;
+	width: 50%;
+	font-size: 42px
+}
+h3{
+	color:	rgb(211,154,121);
+	background-color: #fff;
+	padding:25px;
+	position: absolute;
+	top:-30px;
+	left:400px;
+	width: 579px;
+	font-size: 42px
+}
+
+body{
+	background-color: rgb(211,154,121);
+
+}
+
+#link{
+	color:#fff;
+	display: block;
+	margin: auto;
+	width: 130px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 40px;
+}
+
+#image{
+	display: block;
+	margin: auto;
+	width: 40%;
+	padding: 30px
+}
+
+#image2{
+	padding: 50px;
+	position: absolute;
+	top:130px;
+	left: 350px;
+	width: 300px;
+}
+
+#image3{
+	padding: 50px;
+	position: absolute;
+	top:130px;
+	left: 670px;
+	width: 300px
+}
+
+#backlink{
+	color:#fff;
+	position: absolute;
+	left: 300px;
+	top:13px;
+	width: 45px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 20px
+}
+
+#textpage2{
+	color:#fff;
+	position: absolute;
+	left: 710px;
+	top: 300px;
+	width: 130px;
+	padding: 10px;
+	font-size:49px;
+	text-decoration: underline;
+}
+
+#nextlink{
+	color:#fff;
+	position: absolute;
+	top:440px;
+	left:860px;
+	width: 130px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#door1{
+	padding: 50px;
+	position: absolute;
+	top:150px;
+	left: 350px;
+	width: 150px;
+}
+
+#door2{
+	padding: 50px;
+	position: absolute;
+	top:150px;
+	left: 590px;
+	width: 150px;
+}
+
+#door3{
+	padding: 50px;
+	position: absolute;
+	top:150px;
+	left: 830px;
+	width: 150px;
+}
+
+#Bathroom{
+	color:#fff;
+	position: absolute;
+	left:380px;
+	top: 560px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#Bedroom{
+	color:#fff;
+	position: absolute;
+	left:630px;
+	top: 560px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#Livingroom{
+	color:#fff;
+	position: absolute;
+	left:850px;
+	top: 560px;
+	width: 130px;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#bailey{
+	padding: 50px;
+	position: absolute;
+	top:150px;
+	left: 400px;
+	width: 500px;
+}
+
+#baileytext{
+	color:#fff;
+	position: absolute;
+	left:435px;
+	top: 480px;
+	padding: 10px;
+	font-size: 50px;
+}
+
+#baileylink{
+	color:#fff;
+	position: absolute;
+	left:800px;
+	top:600px;
+	width: 120px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#baileyresult{
+	padding: 50px;
+	position: absolute;
+	top:150px;
+	left: 400px;
+	width: 500px;
+}
+
+#Cocotext{
+	color:#fff;
+	position: absolute;
+	left:410px;
+	top: 380px;
+	padding: 10px;
+	font-size: 50px;
+}
+
+#cocolink{
+	color:#fff;
+	position: absolute;
+	left:830px;
+	top:530px;
+	width: 120px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#cocoimage{
+	padding: 50px;
+	position: absolute;
+	top:100px;
+	left: 420px;
+	width: 500px;
+}
+
+#denver{
+
+	padding: 50px;
+	position: absolute;
+	top:130px;
+	left: 420px;
+	width: 500px;
+}
+
+#denvertext{
+	color:#fff;
+	position: absolute;
+	left:400px;
+	top: 450px;
+	padding: 10px;
+	font-size: 50px;
+}
+
+#baileytext2{
+	color:#fff;
+	position: absolute;
+	left:445px;
+	top: 450px;
+	padding: 10px;
+	font-size: 40px;
+}
+
+#backtohome{
+	color:#fff;
+	position: absolute;
+	left:760px;
+	top:600px;
+	width: 175px;
+	border: 5px solid #fff;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#cocotext{
+	color:#fff;
+	position: absolute;
+	left:450px;
+	top: 450px;
+	padding: 10px;
+	font-size: 40px;
+}
+
+#coco{
+	padding: 50px;
+	position: absolute;
+	top:100px;
+	left: 430px;
+	width: 500px;
+}
+
+#denverfinal{
+	padding: 50px;
+	position: absolute;
+	top:100px;
+	left: 430px;
+	width: 500px;
+}

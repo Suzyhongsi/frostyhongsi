@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Interaction of Colour</title>
+<style>
+html,body{
+	margin: 0px;
+	width: 100%;
+	height:100%;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #d8d0c5
+}
+.swatch{
+	position: absolute;
+	width: 37vmin;
+	height: 9vmin;
+}
+.first{
+	top:14%;
+	background-color: #ce5741;
+	transform: rotate(-3deg);
+	animation:firstr 5s infinite;
+}
+.second{
+	top:21%;
+	background-color: #cc3925;
+	transform: rotate(6deg) translateX(30px);
+	animation:secondr 5s infinite;
+}
+.third{
+	top:34%;
+	background-color: #be413d;
+	transform: rotate(-2.5deg) translateX(45px);
+	animation:thirdr 5s infinite;
+}
+.fourth{
+	top:39%;
+	background-color: #9d2b21;
+	transform: rotate(-3deg) translateX(-50px);
+	animation:fourthr 5s infinite;
+}
+.fifth{
+	top:46%;
+	background-color: #d35e64;
+	transform: rotate(12deg) translateX(92px);
+	animation:fifthr 5s infinite;
+
+}
+.sixth{
+	top:56%;
+	background-color: #8f3e45;
+	transform: rotate(-2deg) translateX(110px);
+	animation: sixthr 5s infinite;
+}
+.seventh{
+	top:63%;
+	background-color: #c3261d;
+	transform: rotate(-0.5deg) translateX(56px);
+	animation: seventh 5s infinite;
+}
+.eight{
+	top:71%;
+	background-color: #90162b;
+	transform: rotate(3.8deg) translateX(29px);
+	animation: eighthr 5s infinite
+}
+@keyframes firstr{
+	40%{
+		transform:rotate(3deg);
+		background-color: #1a3c6c
+	}
+}
+@keyframes secondr{
+	55%{
+		transform:rotate(-6deg) translateX(-30px);
+		background-color: #467e99;
+	}
+}
+@keyframes thirdr{
+	60%{
+		transform:rotate(2.5deg) translateX(-45px);
+		background-color: #448ebf
+	}
+}
+@keyframes fourthr{
+	50%{
+		transform:rotate(3deg) translateX(50px);
+		background-color: #3874b3
+	}
+}
+@keyframes fifthr{
+	60%{
+		transform:rotate(-12deg) translateX(-92px);
+		background-color: #2877b0
+	}
+}
+@keyframes sixthr{
+	50%{
+		transform:rotate(2deg) translateX(-110px);
+		background-color: #0f3eb0
+	}
+}
+@keyframes seventh{
+	40%{
+		transform:rotate(0.5deg) translateX(-56px);
+		background-color: #1a3552
+	}
+}
+@keyframes eighthr{
+	60%{
+		transform:rotate(-3.8deg) translateX(-29px);
+		background-color: #6283a2
+	}
+}
+
+</style>
+</head>
+<body>
+<div class="swatch first"></div>
+<div class="swatch second"></div>
+<div class="swatch third"></div>
+<div class="swatch fourth"></div>
+<div class="swatch fifth"></div>
+<div class="swatch sixth"></div>
+<div class="swatch eight"></div>
+<div class="swatch seventh"></div>
+
+</body>
+</html>

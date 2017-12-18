@@ -1,0 +1,30 @@
+<Species-in-the-wild>
+	<Introdiced-and-naturalised>
+	<Native>
+		<Vagrant>
+		<Coloniser>
+		<Migrant>
+		<Resident>
+			<Data-deficient>
+			<Evaluated>
+				<Extinct>
+				<Not-threatened>
+				<Threatened>
+					<Acutely-threatened>
+						<Nationally-critical>
+						<Nationally-endangered>
+						<Nationally-vulnerable>
+					</Acutely-threatened>
+					<Chronically-threatened>
+						<Serious-decline>
+						<Gradual-decline>
+					</Chronically-threatened>
+					<At-risk>
+						<Range-restricted>
+						<Sparse>
+					</At-risk>
+				</Threatened>
+			</Evaluated>	
+		</Resident>
+	</Native>
+</Species-in-the-wild>
